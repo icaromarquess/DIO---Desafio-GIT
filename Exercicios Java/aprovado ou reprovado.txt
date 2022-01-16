@@ -1,0 +1,31 @@
+import java.util.Scanner;
+import java.util.Locale;
+
+public class Main {
+
+	public static void main(String[] args) {
+				
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		double nota1, nota2, notafinal;
+		
+		System.out.println("primeira nota");
+		nota1 = sc.nextDouble();
+		System.out.println("segunda nota");
+		nota2 = sc.nextDouble();
+		notafinal = nota1 + nota2;
+		System.out.printf("NOTA FINAL = %.1f%n",notafinal);
+			
+		if(notafinal<60.00) {
+			System.out.println("REPROVADO");
+		}
+			
+		else {
+			System.out.println("APROVADO");
+			  
+		    }
+				
+		sc.close();	
+	}
+}
