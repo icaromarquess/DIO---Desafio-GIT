@@ -10,7 +10,7 @@
 
 [Site da Digital Innovation One](https://www.dio.me/sign-in)
 
-#### Vou criar uma Pasta com Exercicios que Resolvi em Java:
+#### Vou criar uma Pasta com Exercicios que Resolvi em Java: 🙂🙂🙂
 
 💛 :yellow_heart: 💙 :blue_heart:	💜 :purple_heart:	❤️ :heart:
 💚 :green_heart:	💔 :broken_heart:	💓 :heartbeat:
